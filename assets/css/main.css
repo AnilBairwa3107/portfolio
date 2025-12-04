@@ -1320,6 +1320,7 @@ section,
     padding-bottom: 30px;
   }
   .portfolio .portfolio-content img {
-    aspect-ratio: 1.2 / 0.7;
+    aspect-ratio: 1.6 / 0.8;
+    padding: 15px;
   }
 }
